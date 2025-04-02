@@ -1,0 +1,144 @@
+>> day03
+
+str1 =
+
+    'apple'
+
+
+str2 =
+
+    'banana'
+
+
+result =
+
+    'applebanana'
+
+applebanana
+
+x =
+
+  1×3 cell array
+
+    {'hello'}    {'world'}    {'sri'}
+
+
+result2 =
+
+    'helloworldsri'
+
+helloworldsri
+
+result3 =
+
+    'hello:world:sri'
+
+hello:world:sri
+
+str3 =
+
+    'age'
+
+
+str4 =
+
+    'age'
+
+
+ans =
+
+  logical
+
+   1
+
+
+str5 =
+
+    'the cat sat on the mat'
+
+
+indic =
+
+     5
+
+
+str5 =
+
+    'the cat sat on the mat'
+
+
+old =
+
+    'cat'
+
+
+new =
+
+    'dog'
+
+
+ans =
+
+    'the dog sat on the mat'
+
+
+inputstring =
+
+    'apple,banana,orange,grapes'
+
+
+substring =
+
+  1×4 cell array
+
+    {'apple'}    {'banana'}    {'orange'}    {'grapes'}
+
+
+st1 =
+
+    'apPLE'
+
+
+ans =
+
+    'apple'
+
+
+ans =
+
+    'APPLE'
+
+
+ans =
+
+    'hello world'
+
+Enter the mark: 90
+
+mark =
+
+    90
+
+A+
+Enter number 1: 2
+
+num1 =
+
+     2
+
+Enter number 2: 3
+
+num2 =
+
+     3
+
+Enter number 3: 5
+
+num3 =
+
+     5
+
+The largest number is 5
+Enter a character: e
+The entered character is a vowel.
+>> 
