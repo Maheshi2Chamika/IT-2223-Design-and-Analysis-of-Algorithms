@@ -1,0 +1,60 @@
+>> Activity3
+Enter the total number of voters: 3
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 1, enter your choice (1-4): 2
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 2, enter your choice (1-4): 2
+
+Voting Menu:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Voter 3, enter your choice (1-4): 3
+
+Voting Results:
+Candidate A: 0 votes
+Candidate B: 2 votes
+Candidate C: 1 votes
+Candidate D: 0 votes
+The winner is Candidate B with 2 votes!
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot
+4. Exit
+Select an option (1-4): 1
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot
+4. Exit
+Select an option (1-4): 2
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot
+4. Exit
+Select an option (1-4): 3
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot
+4. Exit
+Select an option (1-4): 4
+Thank you for participating in the election. Have a great day!
+>> 

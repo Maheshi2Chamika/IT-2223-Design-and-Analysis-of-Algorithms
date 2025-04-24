@@ -1,0 +1,34 @@
+>> Activity1
+ATM Menu
+1.Deposit
+2.Withdraw
+3.Balance Inquiry
+4.Exit
+Select an option 1-4: 1
+Enter the amount: 500
+Amount deposited successfully!
+New Balance: 1500.00
+ATM Menu
+1.Deposit
+2.Withdraw
+3.Balance Inquiry
+4.Exit
+Select an option 1-4: 2
+Enter amount to withdraw: 750
+Amount withdrawn successfully!
+New Balance: 750.00
+ATM Menu
+1.Deposit
+2.Withdraw
+3.Balance Inquiry
+4.Exit
+Select an option 1-4: 3
+Current Balance: 750.00
+ATM Menu
+1.Deposit
+2.Withdraw
+3.Balance Inquiry
+4.Exit
+Select an option 1-4: 4
+Thank you for using the ATM. Have a great day!
+>> 
