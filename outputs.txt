@@ -1,0 +1,100 @@
+>> day04
+Enter marks for subject: 75
+
+marks =
+
+    75     0     0     0     0
+
+Grade C
+
+gpa =
+
+     2     0     0     0     0
+
+Enter marks for subject: 80
+
+marks =
+
+    75    80     0     0     0
+
+Grade B
+
+gpa =
+
+     2     3     0     0     0
+
+Enter marks for subject: 8
+
+marks =
+
+    75    80     8     0     0
+
+Grade F
+
+gpa =
+
+     2     3     0     0     0
+
+Enter marks for subject: 90
+
+marks =
+
+    75    80     8    90     0
+
+Grade A
+
+gpa =
+
+     2     3     0     4     0
+
+Enter marks for subject: 95
+
+marks =
+
+    75    80     8    90    95
+
+Grade A
+
+gpa =
+
+     2     3     0     4     4
+
+
+Your GPA is : 2.60
+
+
+
+
+
+
+**********************************************************************************
+
+>> day04
+Enter the day(1-5) :5
+Friday
+
+**********************************************************************************
+
+
+
+
+
+
+**********************************************************************************
+>> day04
+Enter number 1: 20
+
+num1 =
+
+    20
+
+Enter number 2: 10
+
+num2 =
+
+    10
+
+Enter the operator(+,-,*,/):+
+Result:30.00
+
+**********************************************************************************
