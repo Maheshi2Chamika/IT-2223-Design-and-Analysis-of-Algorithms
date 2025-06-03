@@ -1,1 +1,12 @@
 # IT-2223-Design-and-Analysis-of-Algorithms
+![05](https://github.com/user-attachments/assets/ce4fbdc3-25b1-4f87-9e0d-d285d575b61b)
+![04](https://github.com/user-attachments/assets/b456cb81-38bc-4aa3-bf26-b2d292da85b2)
+![03](https://github.com/user-attachments/assets/38d6b4d5-b0c3-41f7-87c9-166a6580325c)
+![02](https://github.com/user-attachments/assets/da3d9859-7123-4fc6-8bb0-21c576522313)
+![01](https://github.com/user-attachments/assets/6ac0ed43-7c09-4440-a49c-26fc88cc0f5d)
+![11](https://github.com/user-attachments/assets/ede654e4-33dc-4bb5-a840-8ea4f686dc1b)
+![10](https://github.com/user-attachments/assets/e9ff5a20-79ee-41b4-8849-6e3c2bd8eff2)
+![09](https://github.com/user-attachments/assets/9016675d-c789-445e-aa16-ac25cc887d63)
+![08](https://github.com/user-attachments/assets/86818d79-cbd6-4a28-84fc-e9cbdd79f045)
+![07](https://github.com/user-attachments/assets/9e810129-7a62-4cb4-a6b2-a91dac56d97d)
+![06](https://github.com/user-attachments/assets/bfd3e1ac-4054-4ff0-9cb5-ecc9035149a7)
